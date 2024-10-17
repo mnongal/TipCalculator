@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="enter_check_amount">Enter Check Amount</string>
+    <string name="enter_number_of_people">Enter Number of People</string>
+    <string name="compute">Compute</string>
+
+    <!-- Tips -->
+    <string name="fifteen_percent_tip">15% Tip</string>
+    <string name="twenty_percent_tip">20% Tip</string>
+    <string name="twentyfive_percent_tip">25% Tip</string>
+
+    <!-- Totals -->
+    <string name="fifteen_percent_total">15% Total</string>
+    <string name="twenty_percent_total">20% Total</string>
+    <string name="twentyfive_percent_total">25% Total</string>
+</resources>
